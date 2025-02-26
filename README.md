@@ -1,5 +1,5 @@
 # ML_Fundamentals
-This repository contains a collection of Jupyter Notebooks (.ipynb) that trace a learning path for learning the fundamentals of machine learning. The first four chapters are closely based on the book: 
+This repository contains a collection of Jupyter Notebooks (.ipynb) that trace a path for learning the fundamentals of machine learning. The first four chapters are closely based on the book: 
 ```text
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd ed.) by Aurélien Géron (2022).
 ```
